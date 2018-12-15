@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_MultithreadingAndParallelProgramming", "Udemy_MultithreadingAndParallelProgramming\Udemy_MultithreadingAndParallelProgramming.csproj", "{47408B02-0C16-4D82-85BE-B03EDCD5FF16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksLibrary", "BooksLibrary\BooksLibrary.csproj", "{96A02389-19F9-45B6-B840-4D3AAF2D81E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47408B02-0C16-4D82-85BE-B03EDCD5FF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47408B02-0C16-4D82-85BE-B03EDCD5FF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47408B02-0C16-4D82-85BE-B03EDCD5FF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A02389-19F9-45B6-B840-4D3AAF2D81E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A02389-19F9-45B6-B840-4D3AAF2D81E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A02389-19F9-45B6-B840-4D3AAF2D81E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A02389-19F9-45B6-B840-4D3AAF2D81E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
