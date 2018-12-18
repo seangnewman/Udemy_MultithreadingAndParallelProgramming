@@ -55,6 +55,7 @@
     <Compile Include="Chapter4_And_5.cs" />
     <Compile Include="Chapter6.cs" />
     <Compile Include="Chapter7.cs" />
+    <Compile Include="Chapter8.cs" />
     <Compile Include="Character.cs" />
     <Compile Include="EnumerationStatus.cs" />
     <Compile Include="Lazy.cs" />
